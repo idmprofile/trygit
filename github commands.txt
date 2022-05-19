@@ -1,3 +1,20 @@
-ssss
-update github
+ # Learning Git and GitHub
+
+1) Creating Local Repo
+2) Stage a file
+3) Commit a file
+4) Reset a file
+5) Create branch
+6) Switch branch
+7) Merge Branch
+8) Rebase a file
+9) Delete a commit file
+10) Check status
+11) Make online repo
+12) Update online repo
+13) Get Online repo
+14) gitignore
+15) Readme.MD
+
+
 
